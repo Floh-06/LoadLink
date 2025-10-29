@@ -1,0 +1,63 @@
+.App {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f9fafc;
+  min-height: 100vh;
+  color: #213c53;
+  text-align: center;
+}
+header {
+  margin-top: 18px;
+}
+.logo {
+  margin-bottom: -12px;
+}
+nav {
+  margin: 18px 0 24px 0;
+}
+nav button {
+  margin: 0 10px;
+  padding: 9px 18px;
+  background: #1890eb;
+  color: #fff;
+  border: none;
+  border-radius: 7px;
+  font-weight: 600;
+  cursor: pointer;
+}
+nav button:hover {
+  background: #0067bb;
+}
+input {
+  margin: 7px 0;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #dedede;
+  width: 220px;
+}
+.offer-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 18px 15px;
+  margin: 16px auto;
+  width: 90%;
+  box-shadow: 0 2px 11px rgba(80,120,170,0.09);
+  max-width: 400px;
+  text-align: left;
+}
+.offer-card button {
+  float: right;
+  background: #1dc478;
+}
+.offer-card button:hover {
+  background: #0c9a5f;
+}
+footer {
+  margin: 45px 0 6px 0;
+  color: #92a4bb;
+}
+main {
+  padding-bottom: 48px;
+}
+img {
+  border-radius: 8px;
+}
